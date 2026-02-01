@@ -1,11 +1,11 @@
-# Henrique Almeida 👍
+# Henrique Almeida
 
 <a href="https://github.com/hhenrique27">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&fontColor=ffffff&fontSize=40&section=header"/>
 </a>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=00B0FF&center=true&vCenter=true&width=680&lines=Bem-vindo+ao+meu+perfil!+👋;Sou+o+Henrique+Almeida+👨🏾‍💻😅" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=00B0FF&center=true&vCenter=true&width=680&lines=Bem-vindo+ao+meu+perfil!+👋;Sou+o+Henrique+Almeida+👨🏾‍💻" />
 </div>
 
 ---
